@@ -30,7 +30,37 @@ When wanting to use this project after following the installation steps. You wou
 
 ## Project Layout strucutre
 
-..
+sinatraproject/
++-- app
+|   +-- controllers
+|       +-- application_controller.rb
+|       +-- assignment_controller.rb
+|       +-- user_controller.rb
+|   +-- models
+|       +-- assignment.rb
+|       +-- user.rb
+|   +-- views
+|       +-- assignment
+|           +-- edit.erb
+|           +-- index.erb
+|           +-- new.erb
+|           +-- show.erb
+|       +-- user
+|           +-- login.erb
+|           +-- signup.erb
+|       +-- layout.erb
+|       +-- welcome.erb
++-- config
++-- db
++-- lib
++-- public
++-- spec
++-- config.ru
++-- Gemfile
++-- Gemfile.lock
++-- License.md
++-- Rakefile
++-- README.md
 
 ## Acknowledgments 
 
