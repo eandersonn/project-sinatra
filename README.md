@@ -8,19 +8,21 @@ How to install?
 
 To install this SinatraProject you first have to clone this github. By copying the clipboard
 
-'''
-cd 
-'''
-<insert the code for cloning this project> 
-
 Open the file you want this project to go in and copy in there
 
-<insert copying step on the terminal>
+'''
+git clone https://github.com/eandersonn/project-sinatra.git
+''' 
 
 Then open this project and start coding
 
-<insert cd sinatraproject>
-<insert code . code> 
+'''
+cd project-sinatra
+'''
+
+'''
+code .
+'''
 
 Afterwards you will have this sinatraproject in your computer and be able to edit it. 
 
@@ -68,4 +70,4 @@ sinatraproject/
 
 ## License
 
-MIT License, see <insert license link here> for details. 
+MIT License, see [here](https://github.com/eandersonn/project-sinatra/blob/master/License.md)  for details. 
