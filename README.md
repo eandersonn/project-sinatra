@@ -10,17 +10,17 @@ To install this SinatraProject you first have to clone this github. By copying t
 
 Open the file you want this project to go in and copy in there
 
-'''
+'''bash
 git clone https://github.com/eandersonn/project-sinatra.git
 ''' 
 
 Then open this project and start coding
 
-'''
+'''bash
 cd project-sinatra
 '''
 
-'''
+'''bash
 code .
 '''
 
